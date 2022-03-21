@@ -7,6 +7,31 @@
 <a href="https://space.bilibili.com/7936249" target="_blank"><img src="https://img.shields.io/badge/B%E7%AB%99-%40findyi-black?style=flat-square&logo=Bilibili"></a>
 </p>
 
+### 我的程序十年
+**说实话，IT行业真的是一个很苦逼的行业。**
+
+行业的技术、资源、业态都更新快迭代快。程序员没有老中医，绝对不是可以靠一招鲜吃遍天的，加入这个行业意味着：加班、下班后的学习、知识的高速迭代。
+
+对于程序员来说职业规划很重要，如何高速成长永远是个好话题。
+
+先来一张工程师的成长路线：
+<img align='left' src='images/group.png'><br>
+
+过去十三年我先后担任腾讯工程师、360技术经理、技术总监、B轮公司CTO，创业公司CEO，我的公众号文章深度诠释了上面这张程序员的发展路线。
+
+接下来的内容紧紧围绕上面这张程序员发展路线图：
+- [洋哥被调剂到计算机！](https://mp.weixin.qq.com/s/7La85dDprr5GlsWEDKwmHQ)
+- [我在华科大的两年](https://mp.weixin.qq.com/s/g1hA-iQsh01tl2dWSq58NA)
+- [面试腾讯，过了～](https://mp.weixin.qq.com/s/OU_mM0_Bus0nqAgLVSA2gA)
+- [腾讯一年，离职了～](https://mp.weixin.qq.com/s/rXpd-7RcW3y2nO95836GiA)
+- [毕业第二年，涨薪100%](https://mp.weixin.qq.com/s/vCs9eqsSVqKlUVoWGzWElg)
+- [洋哥差点被开除...](https://mp.weixin.qq.com/s/FxTgy5TCCFsZrNnRahRKyw)
+- [毕业第二年，亲历残酷的3Q大战](https://mp.weixin.qq.com/s/a0vZol0w1aB-nUmTWta0PA)
+- [腾讯360大战过后，洋哥的一段996的经历](https://mp.weixin.qq.com/s/AWXHCjT6QcQKouJgdBtVrQ)
+- [一个“退学生”到CTO的逆袭之路](https://mp.weixin.qq.com/s/U4gPFtctM6wwgXpSILJITA)
+- [毕业四年年薪200万是怎样的一种体验？](https://mp.weixin.qq.com/s/1C-5yRkO0PSyeePF-ouXXg)
+- [十三年了！](https://mp.weixin.qq.com/s/otJ97FltSCoRB2lXQNlf2w)
+
 ### 食用指南
 强烈推荐一个良心微信公众号：**『findyi』**
 
