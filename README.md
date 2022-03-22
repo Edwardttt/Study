@@ -30,15 +30,23 @@
 
 <h2>目录（善用 ctrl + F）</h2>
 
-[我的程序十年](#我的程序十年)<br>
-[操作系统](#操作系统)<br>
-[数据库](#数据库)<br>
-[网络&Linux](#网络&Linux)<br>
-[数据结构与算法](#数据结构与算法)<br>
-[设计模式](#设计模式)<br>
-[编程](#编程)<br>
-[面试](#面试)<br>
-[思维与认知](#思维与认知)<br>
+- [我的程序十年](#我的程序十年)<br>
+- [操作系统](#操作系统)<br>
+- [数据库](#数据库)<br>
+- [网络&Linux](#网络&Linux)<br>
+- [数据结构与算法](#数据结构与算法)<br>
+- [设计模式](#设计模式)<br>
+- [编程](#编程)<br>
+	- [C & C++](#C&C++)
+	- [Java](#Java)
+	- [Python](#Python)
+	- [Go](#Go)
+	- [大数据](#大数据)
+	- [AI](#AI)
+	- [前端](#前端)
+	- [未分类](#未分类)
+- [面试](#面试)<br>
+- [思维与认知](#思维与认知)<br>
 
 ### 我的程序十年
 - [洋哥被调剂到计算机！](https://mp.weixin.qq.com/s/7La85dDprr5GlsWEDKwmHQ)
@@ -54,6 +62,7 @@
 - [十三年了！](https://mp.weixin.qq.com/s/otJ97FltSCoRB2lXQNlf2w)
 
 ### 操作系统
+- [深入理解计算机操作系统]()
 - [30天自制操作系统](https://pan.baidu.com/s/14KoM_fuDRa2mwqmmUJ2QWA?pwd=dv89)
 - [操作系统之哲学原理](https://pan.baidu.com/s/1nM5d-G-ENHLcyM0thIgk-g?pwd=he8i)
 - [计算机是怎样跑起来的](https://pan.baidu.com/s/1DI_3Oi-O_f125jai60oRPA?pwd=ehka)
@@ -93,6 +102,7 @@
 - [程序员的算法趣题](https://pan.baidu.com/s/1cs_CeOpZovwPN5yuQ92Zyw?pwd=5stw)
 - [啊哈算法](https://pan.baidu.com/s/1w6pFXkSZDE0xDY_KKkMzPQ?pwd=hyjg)
 - [算法图解](https://pan.baidu.com/s/1Ge2DeKo30pQ_ja9l21Flkw?pwd=emg5)
+- [算法（第4版）](https://pan.baidu.com/s/1YUNdYzpXfyeDQMKWp9PsKA?pwd=jz2h)
 
 ### 设计模式
 - [图解设计模式](https://pan.baidu.com/s/13L3kMYpMj6N0w-TAYgpl3Q?pwd=h8bm)
@@ -103,28 +113,59 @@
 - [重学Java设计模式](https://pan.baidu.com/s/1Ke4xYAXGa3jcDH-_N7hAvg?pwd=865y)
 
 ### 编程
-- [编程之美](https://pan.baidu.com/s/1SyzsY_jQGUYo2HxwDroBYA?pwd=qxjd)
-- [编程珠玑](https://pan.baidu.com/s/1hWGkSKVB6wPAUzDrf8LWUA?pwd=3v55)
-- [代码整洁之道](https://pan.baidu.com/s/1HA1zzj33M5lnL0mHI5XTtg?pwd=kyj9)
+
+#### C&C++
+- [C 程序设计语言（第2版）](https://pan.baidu.com/s/17auyyZ4VZHATnmaNGKxAjg?pwd=x4hp)
+- [C 和指针](https://pan.baidu.com/s/1mQ0u8FrUPXO6EKRhIxNI1w?pwd=scw7)
+- [C primer Plus](https://pan.baidu.com/s/1ti6IP5yul1SbxeYud7OPYw?pwd=5pf6)
+- [经典C程序100例](https://pan.baidu.com/s/1kQhmgm6C3WJdi_tCPxOAuQ?pwd=iy9c)
+- [C++编程规范-101条规则准则与最佳实践](https://pan.baidu.com/s/1JDZi2M8axywvX5LrBxmz0A?pwd=4fs3)
+- [C++设计新思维-泛型编程与设计之应用](https://pan.baidu.com/s/11JNPL98A78UXcSebWHOr7g?pwd=adgw)
+- [深入探索C++对象模型](https://pan.baidu.com/s/1-7NeH8Z0qBqL0chLDrIFNg?pwd=3wny)
+- [C++ Primer](https://pan.baidu.com/s/1jwzHwBxZkpVO1oH9TIN1gg?pwd=2trr)
+- [C++ 编程思想](https://pan.baidu.com/s/10OKX9ldcNXuWkXXjn1ZAhw?pwd=i5g5)
+
+#### Java
 - [Java并发编程的艺术](https://pan.baidu.com/s/1Yf4FuFbq41y7DQkxdRzQ-Q?pwd=ei54)
 - [阿里巴巴Java开发手册](https://pan.baidu.com/s/1P0GIjfBSoc326EeTlJR8Pg?pwd=qy52)
 - [Java8实战](https://pan.baidu.com/s/18FGMgaAEpjB7OeD9b8iYvw?pwd=5p36)
 - [Effective Java](https://pan.baidu.com/s/1JxWPJhh4nkhg1-0nUDRQPQ?pwd=fpj2)
 - [Head First Java](https://pan.baidu.com/s/1Xme52mQp1HhBH41-xrHT2Q?pwd=f7x5)
 - [Java编程思想](https://pan.baidu.com/s/1MF0243hznoF3rW8DB52hbA?pwd=x6c8)
+
+#### Python
 - [Python黑魔法指南](https://pan.baidu.com/s/1hb4-_ye2LaVBDM0gINlZMg?pwd=rcfw)
 - [Python数据处理](https://pan.baidu.com/s/1WFvWM8Z0EvGI6t8lBuRNiw?pwd=4iub)
 - [Python编程初学者指南](https://pan.baidu.com/s/1q9cNqEdyQbzixkg27C5cjw?pwd=g771)
 - [Python高性能编程](https://pan.baidu.com/s/10xN0Ahj645D9kH4h8lRT0w?pwd=a52u)
 - [Python数据分析实战](https://pan.baidu.com/s/12jrNgkEsyu4BdIoDaNwCaQ?pwd=3kch)
+
+#### Go
+- [Go Web编程](https://pan.baidu.com/s/1bpgHZG7Qu3JCxlyXoBi2_g?pwd=pg21)
+- [Go语言高级编程](https://pan.baidu.com/s/1__AXLWDd3WR1hCuiFOMUFA?pwd=cute)
+- [Go语言实战](https://pan.baidu.com/s/1K6_fZUlv7RhgziXOXSaSxA?pwd=i5py)
+
+#### 大数据
+
+#### AI
 - [Python机器学习及实践](https://pan.baidu.com/s/1HWcpIlP0gjv8tM_Tw75UcQ?pwd=zdsu)
+- [PyTorch深度学习实战](https://pan.baidu.com/s/1Mxrqz-alA6zc8JjKlM0P5w?pwd=yhpv)
+- [机器学习](https://pan.baidu.com/s/136FKyNWxeK5Y_zjOl2xPow?pwd=jm6j)
+- [Tensorflow 实战Google深度学习框架](https://pan.baidu.com/s/1PYy_vSY0GQnGcWIQJWowfA?pwd=guyy)
+
+#### 前端
 - [HTML5与CSS3基础教程](https://pan.baidu.com/s/1A9USH-6YjdxS1vxRSU-Gaw?pwd=tkkp)
 - [JavaScript高效图形编程](https://pan.baidu.com/s/1Ii3MGmPIOrhR2gxgz1lCfw?pwd=4mkk)
 - [HTML5揭秘](https://pan.baidu.com/s/1AECVi-seOjoXracdOy0Hvg?pwd=kiu8)
 - [JavaScript高级程序设计（第3版）](https://pan.baidu.com/s/1XeFUZ4dOIeTrOEOdS7cAPw?pwd=yrit)
-- [Go Web编程](https://pan.baidu.com/s/1bpgHZG7Qu3JCxlyXoBi2_g?pwd=pg21)
-- [Go语言高级编程](https://pan.baidu.com/s/1__AXLWDd3WR1hCuiFOMUFA?pwd=cute)
-- [PyTorch深度学习实战](https://pan.baidu.com/s/1Mxrqz-alA6zc8JjKlM0P5w?pwd=yhpv)
+
+### 未分类
+- [编程之美](https://pan.baidu.com/s/1SyzsY_jQGUYo2HxwDroBYA?pwd=qxjd)
+- [编程珠玑](https://pan.baidu.com/s/1hWGkSKVB6wPAUzDrf8LWUA?pwd=3v55)
+- [代码整洁之道](https://pan.baidu.com/s/1HA1zzj33M5lnL0mHI5XTtg?pwd=kyj9)
+- [领域驱动设计：软件核心复杂性应对之道](https://pan.baidu.com/s/1wXaR3dozvB9Ns7wp5kNoPg?pwd=19nq)
+- [敏捷软件开发：原则、模式与实践](https://pan.baidu.com/s/1Jre7v4uc9ElvkjF9awWEzQ?pwd=p7qs)
+- [编码：隐匿在计算机软硬件背后的语言](https://pan.baidu.com/s/1ZYkpjj1V4LU335ak3CpXdg?pwd=bc2c)
 
 ### 面试
 - [Java架构师面试题](https://pan.baidu.com/s/1HGiAcBHK84V6DVsM_dyacA?pwd=udak)
