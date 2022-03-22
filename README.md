@@ -37,7 +37,7 @@
 - [数据结构与算法](#数据结构与算法)<br>
 - [设计模式](#设计模式)<br>
 - [编程](#编程)<br>
-	- [C & C++](#C & C++)
+	- [C & C++](#C&C++)
 	- [Java](#Java)
 	- [Python](#Python)
 	- [Go](#Go)
@@ -114,7 +114,7 @@
 
 ### 编程
 
-#### C & C++
+#### <a name='C&C++'></a>C & C++
 - [C 程序设计语言（第2版）](https://pan.baidu.com/s/17auyyZ4VZHATnmaNGKxAjg?pwd=x4hp)
 - [C 和指针](https://pan.baidu.com/s/1mQ0u8FrUPXO6EKRhIxNI1w?pwd=scw7)
 - [C primer Plus](https://pan.baidu.com/s/1ti6IP5yul1SbxeYud7OPYw?pwd=5pf6)
