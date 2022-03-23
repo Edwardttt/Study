@@ -41,6 +41,7 @@
 	- [Java](#Java)
 	- [Python](#Python)
 	- [Go](#Go)
+	- [消息队列](#消息队列)
 	- [大数据](#大数据)
 	- [AI](#AI)
 	- [前端](#前端)
@@ -132,6 +133,10 @@
 - [Effective Java](https://pan.baidu.com/s/1JxWPJhh4nkhg1-0nUDRQPQ?pwd=fpj2)
 - [Head First Java](https://pan.baidu.com/s/1Xme52mQp1HhBH41-xrHT2Q?pwd=f7x5)
 - [Java编程思想](https://pan.baidu.com/s/1MF0243hznoF3rW8DB52hbA?pwd=x6c8)
+- [深入理解Java虚拟机：JVM高级特性与最佳实践（第3版）周志明](https://pan.baidu.com/s/1fhEL9UjRk5BYrZGtIiw0Fw?pwd=292b)
+- [JVM体系结构与GC调优](https://pan.baidu.com/s/1oa3UwE5IoQhLTMEHjJXVAw?pwd=y3eu)
+- [Java高并发编程详解：多线程与架构设计](https://pan.baidu.com/s/1-4NyCW4z-7SZW2wml7CvqQ?pwd=jyzk)
+- [【高清电子版】Java8函数式编程](https://pan.baidu.com/s/1KK0q5iZ_yvkCmTCbA7P2oA?pwd=rqwk)
 
 #### Python
 - [Python黑魔法指南](https://pan.baidu.com/s/1hb4-_ye2LaVBDM0gINlZMg?pwd=rcfw)
@@ -144,6 +149,9 @@
 - [Go Web编程](https://pan.baidu.com/s/1bpgHZG7Qu3JCxlyXoBi2_g?pwd=pg21)
 - [Go语言高级编程](https://pan.baidu.com/s/1__AXLWDd3WR1hCuiFOMUFA?pwd=cute)
 - [Go语言实战](https://pan.baidu.com/s/1K6_fZUlv7RhgziXOXSaSxA?pwd=i5py)
+
+#### 消息队列
+- [消息队列核心知识点](https://pan.baidu.com/s/1FqFhWFfs9R9q24EGUlkjWA?pwd=d8ht)
 
 #### 大数据
 
@@ -166,6 +174,9 @@
 - [领域驱动设计：软件核心复杂性应对之道](https://pan.baidu.com/s/1wXaR3dozvB9Ns7wp5kNoPg?pwd=19nq)
 - [敏捷软件开发：原则、模式与实践](https://pan.baidu.com/s/1Jre7v4uc9ElvkjF9awWEzQ?pwd=p7qs)
 - [编码：隐匿在计算机软硬件背后的语言](https://pan.baidu.com/s/1ZYkpjj1V4LU335ak3CpXdg?pwd=bc2c)
+- [《架构整洁之道》](https://pan.baidu.com/s/1EPoZA1TUk7sjNAfHFPKRfQ?pwd=h4xw)
+- [《凤凰架构》](https://pan.baidu.com/s/1apsQ8HMvpxyOteie5u9gCw?pwd=6n4v)
+- [支付宝钱包系统架构内部剖析（架构图）](https://pan.baidu.com/s/1EGJuPfgExabyLjD02AP1Eg?pwd=9i87)
 
 ### 面试
 - [Java架构师面试题](https://pan.baidu.com/s/1HGiAcBHK84V6DVsM_dyacA?pwd=udak)
@@ -176,6 +187,9 @@
 - [C&C++ 面试题](https://pan.baidu.com/s/1Cd6bJfg9g5Xlf2h6Fb3bng?pwd=n4ep)
 - [Python面试题](https://pan.baidu.com/s/1q6GDl_Edwnzp_b6JLp4vkw?pwd=n2re)
 - [程序员面试宝典](https://pan.baidu.com/s/18k3J0Z2x78qDPSm1dHXkLg?pwd=3117)
+- [消息队列常见面试题](https://pan.baidu.com/s/1gBRsSA6khommzaQ2QxBgeQ?pwd=hbj8)
+- [Java 面经手册](https://pan.baidu.com/s/1PchuZmvRyUrXe33SalVofg?pwd=pr43)
+- 
 
 ### 思维与认知
 - [软技能 - 代码之外的生存之道](https://pan.baidu.com/s/15fdOYrQa6uCmgRCqgHIcJw?pwd=h6rm)
