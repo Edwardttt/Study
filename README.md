@@ -44,7 +44,7 @@
 	- [大数据](#大数据)
 	- [AI](#AI)
 	- [前端](#前端)
-	- [未分类](#未分类)
+	- [代码之美](#代码之美)
 - [面试](#面试)<br>
 - [思维与认知](#思维与认知)<br>
 
@@ -159,7 +159,7 @@
 - [HTML5揭秘](https://pan.baidu.com/s/1AECVi-seOjoXracdOy0Hvg?pwd=kiu8)
 - [JavaScript高级程序设计（第3版）](https://pan.baidu.com/s/1XeFUZ4dOIeTrOEOdS7cAPw?pwd=yrit)
 
-### 未分类
+### 代码之美
 - [编程之美](https://pan.baidu.com/s/1SyzsY_jQGUYo2HxwDroBYA?pwd=qxjd)
 - [编程珠玑](https://pan.baidu.com/s/1hWGkSKVB6wPAUzDrf8LWUA?pwd=3v55)
 - [代码整洁之道](https://pan.baidu.com/s/1HA1zzj33M5lnL0mHI5XTtg?pwd=kyj9)
